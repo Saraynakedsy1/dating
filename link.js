@@ -1,2 +1,2 @@
 const modelName = "hello"
-const link ="https://urlz.fr/jQGg"
+const link ="https://n9.cl/scn3z"
